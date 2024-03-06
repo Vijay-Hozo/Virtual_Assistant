@@ -7,6 +7,7 @@ This project is a virtual assistant created using Python that allows users to na
 - YouTube navigation
 - Wikipedia search
 - Time and date display
+- Make you laugh by english jokes
 
 ## Installation
 
